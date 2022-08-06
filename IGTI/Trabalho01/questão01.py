@@ -8,3 +8,4 @@ for numero in range(inicio, fim):
     if numero % 5 == 0: 
         print(numero)
         
+        
