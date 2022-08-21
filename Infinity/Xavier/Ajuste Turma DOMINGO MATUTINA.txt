@@ -1,0 +1,89 @@
+=======================
+Turma: DOMINGO/MATUTINA
+=======================
+
+---------------------
+Aula 03 - Alinhamento
+---------------------
+- Apresentação da nova ementa
+- Atividades de revisão dos tópicos:
+	- Operadores de associação e identidade (in/is)
+	- Operador Ternário (a if condition else b)
+	- Listas, Tuplas (notebook de Rafael)
+	- Dicionários
+	
+	- Exercícios
+		- Condicionais
+		- Estrururas de Repetição
+		- Funções
+		- Usar listas, tuplas e dicionários
+
+-------------------------------------------------------------
+A turma segue a partir dos assuntos da aula 06 da nova ementa
+-------------------------------------------------------------
+
+-------
+Aula 04 (Aula 06 da nova ementa)
+-------
+- Módulos e pacotes para importação
+
+-------
+Aula 05 (Aula 07 da nova ementa)
+-------
+- Prática de exercícios e revisão
+
+-------
+Aula 06 (Aula 08 da nova ementa)
+-------
+- Interface Gráfica com Tkinter - Parte I
+
+-------
+Aula 07 (Aula 09 da nova ementa)
+-------
+- Interface Gráfica com Tkinter - Parte II
+
+-------
+Aula 08 (Aula 10 da nova ementa)
+-------
+- Introdução à Linguagem SQL - Parte I
+
+-------
+Aula 09 (Aula 11 da nova ementa)
+-------
+- Introdução à Linguagem SQL - Parte II
+
+-------
+Aula 10 (Aula 12 da nova ementa)
+-------
+- Orientação à Objetos - Parte I
+
+-------
+Aula 11 (Aula 13 da nova ementa)
+-------
+- Orientação à Objetos - Parte II
+
+-------
+Aula 12 (Aula 14 da nova ementa)
+-------
+- Introdução ao SQL Alchemy - Parte I
+
+-------
+Aula 13 (Aula 15 da nova ementa)
+-------
+- Introdução ao SQL Alchemy - Parte II
+
+-------
+Aula 14
+-------
+- Projeto CRUD - Fase I: requisitos básicos e interfaces
+
+-------
+Aula 15
+-------
+- Projeto CRUD - Fase II: autenticação e banco de dados
+
+-------
+Aula 16 (Aula 16 da nova ementa)
+-------
+- Aula coringa (aula de revisão, aula projeto ou assunto a escolher do professor)
+
