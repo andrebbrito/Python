@@ -1,18 +1,6 @@
 
-# Comentário de uma linha só
 
-''' 
-a
+x = range(10)
 
-'''
-
-
-    
-print('alerta')  # Comentario Python 
-
-
-
-
-
-
+print(type(x))
 

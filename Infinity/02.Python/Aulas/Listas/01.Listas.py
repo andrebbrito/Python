@@ -1,7 +1,6 @@
 
 from re import A
 
-
 paisesDaCopa = []
 
 paisesDaCopa.append('Brasil')
